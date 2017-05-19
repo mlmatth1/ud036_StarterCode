@@ -1,4 +1,4 @@
-Source code for a Movie Trailer website.
+# Movie Trailer website.
 
 Ths is a Movie Trailer Website that will show your favorite movies and trailers by showing the Poster image and allowing you to click on that image to play it's trailer.
 
