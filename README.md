@@ -1,28 +1,24 @@
 # Movie Trailer website.
 
-Ths is a Movie Trailer Website that will show your favorite movies and trailers by showing the Poster image and allowing you to click on that image to play it's trailer.
+Ths is a movie trailer website that will a list of my favorite movies. It will load a list of movie poster images and allow you to view it's trailers by clicking on the poster image.
 
 ## Getting Started
 
-Download the following files 
+Make sure you have downloaded and installed python 2.7 and download the following files 
 
 * entertainment_center.py
 * media.py
 * fresh_tomatoes.py 
-* fresh_tomatoes.html
 
 ### Installing
 
-Once you have downloaded all the files simply double click on the fresh_tomatoes.html. Which will open the page in the browser and allow you to click on the images and play the movie trailers.
+Once you have downloaded all the files make sure they are all in the same directory. Then open a command prompt and run the following command:
 
-## Deployment
+python enterainment_center.py
 
-Add additional notes about how to deploy this on a live system
+This will load a list of poster images of movie trailers.
 
 ## Authors
 
-**Mark Matthews*
+*Mark Matthews*
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
