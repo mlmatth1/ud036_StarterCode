@@ -28,4 +28,5 @@ spring_break = media.Movie("Spring Break",
                      "https://upload.wikimedia.org/wikipedia/en/f/fb/Poster_of_the_movie_Spring_Break.jpg",
                      "https://www.youtube.com/watch?v=bL1Er4-fTkc")
 #list of the class instances of my favorite Movies
-favorite_movies = [back_to_the_future, avatar, hunger_games, bill_and_teds_excellent_adventure, matrix, spring_break]
+movies = [back_to_the_future, avatar, hunger_games, bill_and_teds_excellent_adventure, matrix, spring_break]
+fresh_tomatoes.open_movies_page(movies)
